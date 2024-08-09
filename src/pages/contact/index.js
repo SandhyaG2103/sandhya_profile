@@ -11,7 +11,7 @@ const contactConfig = {
   YOUR_TEMPLATE_ID: "template_61xlkl6", 
   YOUR_USER_ID: "2jsFHffb4ZV10v8En", 
   description: "Please feel free to get in touch with me via email or phone.",
-  YOUR_FONE: "123-456-7890"
+  YOUR_FONE: "9665463880"
 };
 
 export const ContactUs = () => {
